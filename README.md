@@ -11,5 +11,5 @@ I feel super excited about how we can utilize them to empower people to protect 
 - 👨‍💻 I focus on smart contract development and I love designing self-sustaining and permissionless protocols
 - 🤝 I am looking for innvoative ideas(especially related to DeFi/Privacy) to work on together
 - 🔒 priv/acc. contributor @[web3privacy](https://github.com/web3privacy/web3privacy)
-- 🦄 developer ambassador @UniswapFND
+- 🦄 developer ambassador & support @UniswapFND
 
