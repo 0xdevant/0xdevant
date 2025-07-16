@@ -9,8 +9,8 @@ Hey👋 I am ant, a dev who is passionate about Ethereum, Privacy and DeFi.
 
 I can't wait to see how we all can utilize them to empower people to protect themselves from suppression of basic human rights.
 
-- 👨‍💻 I focus on smart contract development and I love designing self-sustaining and permissionless protocol
-- 🤝 I am looking for innvoative ideas(especially related to DeFi/Privacy) to work on together
+- 👨‍💻 I focus on smart contract development and I love designing & developing self-sustaining and permissionless protocol
+- 🤝 I am always brain-storming different ideas related to DeFi/Privacy to work on and hoping to become a founder one day
 - 🙂 Privacy is normal, and we should make it cool AF
 - 🔒 contributor @[web3privacy](https://github.com/web3privacy/web3privacy)
 - 💻 prev lead smart contract dev @Memeland, developer ambassador @UniswapFND
