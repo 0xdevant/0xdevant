@@ -28,7 +28,7 @@
 
 ### Legacy Work
 
-- **[liquidity-launcher-strategies](https://github.com/0xdevant/liquidity-launcher-strategies)** – Strategy contracts built on of Uniswap [Liquidity Launcher](https://github.com/Uniswap/liquidity-launcher) 
+- **[liquidity-launcher-strategies](https://github.com/0xdevant/liquidity-launcher-strategies)** – Strategy contracts built on top of Uniswap [Liquidity Launcher](https://github.com/Uniswap/liquidity-launcher) 
 - **[doppler-v4-hooks](https://github.com/0xdevant/doppler-v4-hooks)** – Uniswap v4 hooks built on top of [Doppler](https://github.com/whetstoneresearch/doppler) 
 - **[autoMate-contracts](https://github.com/0xdevant/autoMate-contracts)** – Uniswap v4 hook: bounty + scheduled on-chain task execution by keeper network (swappers)
 - **[DeInsur](https://github.com/0xdevant/DeInsur)** – Decentralized insurance protocol
