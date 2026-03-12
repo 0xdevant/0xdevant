@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- **[Web3Privacy](https://github.com/web3privacy/)** – Explorer, data, personalstack; privacy-focused tooling and research.
+- **[Web3Privacy](https://github.com/web3privacy/)** – Explorer, data, personal stack; privacy-focused tooling and research.
 - **[ERC8027](https://github.com/0xdevant/ERC8027)** – EIP on Subscription NFTs: manual & recurring subscription via EIP-712 signature for ERC721
 - **[facts.hype](https://github.com/0xdevant/facts-hype)** – Decentralized market resolution system for real-world events
 
