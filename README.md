@@ -17,6 +17,7 @@
 ![Ethereum](https://img.shields.io/badge/-EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 - **[Clawify](https://clawify.dev)** (closed source) – Make deployment for Openclaw on VPS easy af and 100% controlled by user.
+- **[好路數](https://discount.clawify.dev/)** – Aggregates the latest deals and discounts across Hong Kong into a single, clean interface. Covers food, shopping, hotels, travel, and supermarkets.
 
 ---
 
