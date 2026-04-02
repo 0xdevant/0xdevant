@@ -18,6 +18,8 @@
 
 - **[Clawify](https://clawify.dev)** (closed source) – Make deployment for Openclaw on VPS easy af and 100% controlled by user.
 - **[好路數](https://discount.clawify.dev/)** – Aggregates the latest deals and discounts across Hong Kong into a single, clean interface. Covers food, shopping, hotels, travel, and supermarkets.
+- **[港聞講乜](https://news.clawify.dev/)** – Aggregates latest news published by Hong Kong local medias into a single, clean interface.
+- **[Insights](https://seo.clawify.dev/)** – Provides LLM-based SEO, market, competitor, web performance analysis and a prioritized, implementation-ready plan to improve your site and conversions.
 
 ---
 
